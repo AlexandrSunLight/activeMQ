@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="report_view.xsl"?>
+<Report time="Mon Aug 19 11:26:32 2019
+"><WSDLS><WSDL unc="D:\Users\user\Documents\VuGen activeMQ\activeMQ_script01\WSDL\queues\queues.jsp" name="http://127.0.0.1:8161/admin/queues.jsp"><msgs><msg severity="Error" xpath="" col="0" line="0">Parsing Error.</msg><msg severity="Error" xpath="" col="0" line="0"></msg><msg severity="Notification" xpath="" col="0" line="0">See detailed report in D:\Users\user\Documents\VuGen activeMQ\activeMQ_script01\WSDL\AxisToolkit.log</msg></msgs></WSDL></WSDLS></Report>

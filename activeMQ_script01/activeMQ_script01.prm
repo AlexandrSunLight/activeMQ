@@ -1,0 +1,8 @@
+[parameter:QueueName]
+CurrentValue="Queue_One"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue="Queue_One"
+ParamName="QueueName"
+Prompt=""
+Type="Custom"

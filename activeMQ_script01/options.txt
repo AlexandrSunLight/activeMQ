@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IE:\YandexDisk\+++WORK\After school\activeMQ_script01
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ee:\yandexdisk\+++work\after school\activemq_script01\\logfile.log
+e:\yandexdisk\+++work\after school\activemq_script01\\combined_activeMQ_script01.c
+e:\yandexdisk\+++work\after school\activemq_script01\\pre_cci.c

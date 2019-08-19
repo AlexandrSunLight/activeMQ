@@ -1,0 +1,16 @@
+Virtual User Script started at: 20.08.2019 1:20:18
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(3): JMS call "step1: send message" started
+Action.c(3): JMS call was successful
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.
+Warning: Extension LrXml.dll reports error -1 on call to function ExtPerThreadTerminate
+Warning: Vuser failed to terminate extension.

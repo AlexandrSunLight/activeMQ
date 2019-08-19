@@ -1,0 +1,9 @@
+Mon Aug 19 12:26:31 MSK 2019: Start logging .....
+Mon Aug 19 12:26:31 MSK 2019: WSDL - http://127.0.0.1:8161/admin/queues.jsp
+Mon Aug 19 12:26:32 MSK 2019: null
+Mon Aug 19 12:26:32 MSK 2019: WSDL2Java throw an exception:
+com.mercury.ws.exception.LiterateException
+	at com.mercury.ws.util.WSDL2JavaInvoker$NoneExitWSDL2Java.run(WSDL2JavaInvoker.java:358)
+	at com.mercury.ws.util.WSDL2JavaInvoker.invoke(WSDL2JavaInvoker.java:84)
+	at com.mercury.ws.generator.ProxyGenerator.generateProxy(ProxyGenerator.java:174)
+Mon Aug 19 12:26:32 MSK 2019: null
