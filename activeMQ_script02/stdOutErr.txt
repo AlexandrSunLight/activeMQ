@@ -1,0 +1,18 @@
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
+System.out:  INFO | Successfully connected to tcp://localhost:61616
+                                                                                                                                                      Notify:
