@@ -1,0 +1,16 @@
+[parameter:FirstQueueName]
+CurrentValue="Queue_One"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue="Queue_One"
+ParamName="FirstQueueName"
+Prompt=""
+Type="Custom"
+[parameter:SecondQueueName]
+CurrentValue="Queue_Two"
+IsEncrypt="NO"
+IsServer="NO"
+OriginalValue="Queue_Two"
+ParamName="SecondQueueName"
+Prompt=""
+Type="Custom"
