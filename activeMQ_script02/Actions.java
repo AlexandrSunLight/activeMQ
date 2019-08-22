@@ -39,7 +39,6 @@ public class Actions
 		
 		Destination destinationTwo = session.createQueue(lr.eval_string("{SecondQueueName}"));
 		MessageProducer producer = session.createProducer(destinationTwo);
-		producer = session.createProducer(destinationTwo);
 		TextMessage message = session.createTextMessage(((TextMessage) msg).getText());
 		producer.send(message);
 		session.close();
